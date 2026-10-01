@@ -47,6 +47,7 @@ export const LOCALES: LocaleDefinition[] = [
 	{ code: "ka", label: "ქართული", enabled: true }, // Georgian
 	{ code: "de", label: "Deutsch", enabled: true }, // German
 	{ code: "hi", label: "हिन्दी", enabled: true }, // Hindi
+	{ code: "ur", label: "اردو", enabled: true }, // Urdu
 	{ code: "hu", label: "Magyar", enabled: true }, // Hungarian
 	{ code: "id", label: "Bahasa Indonesia", enabled: true }, // Indonesian
 	{ code: "ja", label: "日本語", enabled: true }, // Japanese
@@ -61,7 +62,6 @@ export const LOCALES: LocaleDefinition[] = [
 	{ code: "th", label: "ไทย", enabled: true }, // Thai
 	{ code: "tr", label: "Türkçe", enabled: true }, // Turkish
 	{ code: "uk", label: "Українська", enabled: true }, // Ukrainian
-	{ code: "ur", label: "اردو", enabled: true }, // Urdu
 	// Pseudo-locale for i18n testing - never enabled in the admin UI by default.
 	// Set EMDASH_PSEUDO_LOCALE=1 in .env to expose it in the locale switcher (dev only).
 	{ code: "pseudo", label: "Pseudo", enabled: false },
