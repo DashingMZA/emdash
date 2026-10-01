@@ -1003,7 +1003,7 @@ msgstr "ریلیشن طے کرتی ہے کہ دو مواد کی اقسام آپ�
 msgid "A relationship is required"
 msgstr "ایک تعلق ضروری ہے"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:272
+#: packages/admin/src/components/settings/GeneralSettings.tsx:273
 msgid "A short description of your site"
 msgstr "آپ کی سائٹ کی مختصر تفصیل"
 
@@ -1589,9 +1589,9 @@ msgstr "ایک خفیہ ڈیجیٹل کلید جسے آپ اپنی انگلی ک
 #: packages/admin/src/components/settings/BackupSettings.tsx:124
 #: packages/admin/src/components/settings/BackupSettings.tsx:167
 #: packages/admin/src/components/settings/EmailSettings.tsx:45
-#: packages/admin/src/components/settings/GeneralSettings.tsx:163
-#: packages/admin/src/components/settings/GeneralSettings.tsx:236
+#: packages/admin/src/components/settings/GeneralSettings.tsx:164
 #: packages/admin/src/components/settings/GeneralSettings.tsx:237
+#: packages/admin/src/components/settings/GeneralSettings.tsx:238
 #: packages/admin/src/components/settings/SecuritySettings.tsx:51
 #: packages/admin/src/components/settings/SecuritySettings.tsx:67
 #: packages/admin/src/components/settings/SecuritySettings.tsx:124
@@ -2418,7 +2418,7 @@ msgstr "تبدیل کریں"
 msgid "Change <0>{0}</0> from <1>{1}</1> to <2>{2}</2>? They will lose access to higher-level features."
 msgstr "کیا <0>{0}</0> کو <1>{1}</1> سے <2>{2}</2> میں تبدیل کریں؟ وہ اعلیٰ سطح کی خصوصیات تک رسائی کھو دیں گے۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:376
+#: packages/admin/src/components/settings/GeneralSettings.tsx:377
 msgid "Change Favicon"
 msgstr "فیویکن تبدیل کریں"
 
@@ -2426,7 +2426,7 @@ msgstr "فیویکن تبدیل کریں"
 msgid "Change Image"
 msgstr "تصویر تبدیل کریں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:316
+#: packages/admin/src/components/settings/GeneralSettings.tsx:317
 msgid "Change Logo"
 msgstr "لوگو تبدیل کریں"
 
@@ -2578,7 +2578,7 @@ msgstr "اس ڈرافٹ کے لیے اشاعت کا نیا وقت منتخب ک�
 msgid "Choose a non-empty {0} image."
 msgstr "ایک غیر خالی {0} تصویر منتخب کریں۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:443
+#: packages/admin/src/components/settings/GeneralSettings.tsx:444
 msgid "Choose a recognized timezone for reliable date display."
 msgstr "تاریخ کے درست اظہار کے لیے ایک تسلیم شدہ ٹائم زون منتخب کریں۔"
 
@@ -3722,7 +3722,7 @@ msgstr "تاریخ اور وقت منتخب کنندہ"
 msgid "Date field to filter on"
 msgstr "فلٹر کرنے کے لیے تاریخ کی فیلڈ"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:420
+#: packages/admin/src/components/settings/GeneralSettings.tsx:421
 msgid "Date Format"
 msgstr "تاریخ کا فارمیٹ"
 
@@ -4853,7 +4853,7 @@ msgstr "انگریزی استعمال کی جا رہی ہے کیونکہ موا�
 msgid "Enter a name."
 msgstr "نام درج کریں۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:447
+#: packages/admin/src/components/settings/GeneralSettings.tsx:448
 msgid "Enter a recognized timezone to save"
 msgstr "محفوظ کرنے کے لیے ایک تسلیم شدہ ٹائم زون درج کریں"
 
@@ -4979,7 +4979,7 @@ msgstr "اس پلگ اِن کی ہر شائع شدہ ریلیز واپس لے ل
 msgid "Every relationship this content type takes part in goes too:"
 msgstr "جو ہر تعلق یہ مواد کی قسم رکھتی ہے وہ بھی ختم ہو جاتا ہے:"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:428
+#: packages/admin/src/components/settings/GeneralSettings.tsx:429
 msgid "Example: {pattern} → {preview}"
 msgstr "مثال: {pattern} ← {preview}"
 
@@ -5689,7 +5689,7 @@ msgid "Failed to save field"
 msgstr "فیلڈ محفوظ کرنے میں ناکامی"
 
 #: packages/admin/src/components/PluginSettings.tsx:74
-#: packages/admin/src/components/settings/GeneralSettings.tsx:162
+#: packages/admin/src/components/settings/GeneralSettings.tsx:163
 #: packages/admin/src/components/settings/SeoSettings.tsx:81
 #: packages/admin/src/components/settings/SocialSettings.tsx:66
 msgid "Failed to save settings"
@@ -5827,8 +5827,8 @@ msgid "FAQ"
 msgstr "اکثر پوچھے گئے سوالات"
 
 #: packages/admin/src/components/MediaUsedIn.tsx:45
-#: packages/admin/src/components/settings/GeneralSettings.tsx:347
-#: packages/admin/src/components/settings/GeneralSettings.tsx:354
+#: packages/admin/src/components/settings/GeneralSettings.tsx:348
+#: packages/admin/src/components/settings/GeneralSettings.tsx:355
 msgid "Favicon"
 msgstr "فیویکن"
 
@@ -6116,7 +6116,7 @@ msgstr "گیلری کی ترتیبات"
 msgid "General"
 msgstr "عمومی"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:214
+#: packages/admin/src/components/settings/GeneralSettings.tsx:215
 msgid "General Settings"
 msgstr "عمومی ترتیبات"
 
@@ -7367,7 +7367,7 @@ msgstr "پلگ اِن پینل لوڈ ہو رہا ہے"
 msgid "Loading plugins..."
 msgstr "پلگ اِنز لوڈ ہو رہے ہیں..."
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:425
+#: packages/admin/src/components/settings/GeneralSettings.tsx:426
 msgid "Loading preview…"
 msgstr "پیش منظر لوڈ ہو رہا ہے…"
 
@@ -7390,7 +7390,7 @@ msgid "Loading sections..."
 msgstr "سیکشنز لوڈ ہو رہے ہیں..."
 
 #: packages/admin/src/components/PluginSettings.tsx:131
-#: packages/admin/src/components/settings/GeneralSettings.tsx:225
+#: packages/admin/src/components/settings/GeneralSettings.tsx:226
 #: packages/admin/src/components/settings/SeoSettings.tsx:133
 #: packages/admin/src/components/settings/SocialSettings.tsx:100
 msgid "Loading settings..."
@@ -7494,8 +7494,8 @@ msgid "Log out"
 msgstr "لاگ آؤٹ"
 
 #: packages/admin/src/components/MediaUsedIn.tsx:44
-#: packages/admin/src/components/settings/GeneralSettings.tsx:287
-#: packages/admin/src/components/settings/GeneralSettings.tsx:294
+#: packages/admin/src/components/settings/GeneralSettings.tsx:288
+#: packages/admin/src/components/settings/GeneralSettings.tsx:295
 msgid "Logo"
 msgstr "لوگو"
 
@@ -8544,7 +8544,7 @@ msgstr "اس اکاؤنٹ کے لیے کوئی مماثل پاس کی نہیں �
 msgid "No matching tags"
 msgstr "کوئی مماثل ٹیگز نہیں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:460
+#: packages/admin/src/components/settings/GeneralSettings.tsx:461
 msgid "No matching timezones"
 msgstr "کوئی مماثل ٹائم زونز نہیں"
 
@@ -8770,7 +8770,7 @@ msgstr "عدد"
 msgid "Number of posts"
 msgstr "پوسٹس کی تعداد"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:415
+#: packages/admin/src/components/settings/GeneralSettings.tsx:416
 msgid "Number of posts to show per page on list views"
 msgstr "فہرست کے منظر میں فی صفحہ دکھائی جانے والی پوسٹس کی تعداد"
 
@@ -9432,7 +9432,7 @@ msgstr "پوسٹس"
 msgid "Posts & Pages"
 msgstr "پوسٹس اور صفحات"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:409
+#: packages/admin/src/components/settings/GeneralSettings.tsx:410
 msgid "Posts Per Page"
 msgstr "فی صفحہ پوسٹس"
 
@@ -9496,7 +9496,7 @@ msgstr "ڈرافٹ کا پیش منظر"
 msgid "Preview of {0}"
 msgstr "{0} کا پیش منظر"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:427
+#: packages/admin/src/components/settings/GeneralSettings.tsx:428
 msgid "Preview unavailable for this format"
 msgstr "اس فارمیٹ کے لیے پیش منظر دستیاب نہیں"
 
@@ -9772,7 +9772,7 @@ msgstr "اپنی ٹیکسونومیز اور اصطلاحات پڑھیں"
 msgid "Read-only"
 msgstr "صرف پڑھنے کے لیے"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:406
+#: packages/admin/src/components/settings/GeneralSettings.tsx:407
 msgid "Reading"
 msgstr "پڑھا جا رہا ہے"
 
@@ -9887,7 +9887,7 @@ msgstr "حوالہ شدہ مجموعہ"
 msgid "Referenced collection is required"
 msgstr "حوالہ شدہ مجموعہ ضروری ہے"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:365
+#: packages/admin/src/components/settings/GeneralSettings.tsx:366
 msgid "Referenced favicon unavailable."
 msgstr "حوالہ شدہ فیویکن دستیاب نہیں۔"
 
@@ -9984,8 +9984,8 @@ msgstr "منصوبہ دوبارہ لوڈ ہو رہا ہے…"
 #: packages/admin/src/components/ImageFieldRenderer.tsx:439
 #: packages/admin/src/components/media/MediaBrowserItems.tsx:221
 #: packages/admin/src/components/PortableTextEditor.tsx:5486
-#: packages/admin/src/components/settings/GeneralSettings.tsx:325
-#: packages/admin/src/components/settings/GeneralSettings.tsx:385
+#: packages/admin/src/components/settings/GeneralSettings.tsx:326
+#: packages/admin/src/components/settings/GeneralSettings.tsx:386
 #: packages/admin/src/components/settings/PasskeyItem.tsx:160
 #: packages/admin/src/components/settings/PasskeyItem.tsx:182
 #: packages/admin/src/components/settings/SeoSettings.tsx:217
@@ -10946,7 +10946,7 @@ msgstr "فولڈرز تلاش کریں"
 msgid "Search for a language…"
 msgstr "زبان تلاش کریں…"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:440
+#: packages/admin/src/components/settings/GeneralSettings.tsx:441
 msgid "Search for an IANA timezone (e.g., Europe/London)"
 msgstr "IANA ٹائم زون تلاش کریں (مثلاً Europe/London)"
 
@@ -11007,7 +11007,7 @@ msgstr "تھیمز تلاش کریں"
 msgid "Search themes..."
 msgstr "تھیمز تلاش کریں..."
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:451
+#: packages/admin/src/components/settings/GeneralSettings.tsx:452
 msgid "Search timezones…"
 msgstr "ٹائم زونز تلاش کریں…"
 
@@ -11213,11 +11213,11 @@ msgstr "{label} کے لیے ڈارک موڈ ویریئنٹ منتخب کریں"
 msgid "Select default social image"
 msgstr "ڈیفالٹ سوشل تصویر منتخب کریں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:490
+#: packages/admin/src/components/settings/GeneralSettings.tsx:491
 msgid "Select favicon"
 msgstr "فیویکن منتخب کریں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:397
+#: packages/admin/src/components/settings/GeneralSettings.tsx:398
 msgid "Select Favicon"
 msgstr "فیویکن منتخب کریں"
 
@@ -11240,11 +11240,11 @@ msgstr "تصویر منتخب کریں"
 msgid "Select Image"
 msgstr "تصویر منتخب کریں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:482
+#: packages/admin/src/components/settings/GeneralSettings.tsx:483
 msgid "Select logo"
 msgstr "لوگو منتخب کریں"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:337
+#: packages/admin/src/components/settings/GeneralSettings.tsx:338
 msgid "Select Logo"
 msgstr "لوگو منتخب کریں"
 
@@ -11446,7 +11446,7 @@ msgid "Settings Read"
 msgstr "ترتیبات پڑھنا"
 
 #: packages/admin/src/components/PluginSettings.tsx:68
-#: packages/admin/src/components/settings/GeneralSettings.tsx:155
+#: packages/admin/src/components/settings/GeneralSettings.tsx:156
 msgid "Settings saved successfully"
 msgstr "ترتیبات کامیابی سے محفوظ ہو گئیں"
 
@@ -11601,7 +11601,7 @@ msgstr "سائٹ برآمد"
 msgid "Site identity"
 msgstr "سائٹ کی شناخت"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:258
+#: packages/admin/src/components/settings/GeneralSettings.tsx:259
 msgid "Site Identity"
 msgstr "سائٹ کی شناخت"
 
@@ -11610,7 +11610,7 @@ msgid "site identity applied (title, tagline, logo)"
 msgstr "سائٹ کی شناخت لاگو کر دی گئی (عنوان، ٹیگ لائن، لوگو)"
 
 #: packages/admin/src/components/Settings.tsx:55
-#: packages/admin/src/components/settings/GeneralSettings.tsx:215
+#: packages/admin/src/components/settings/GeneralSettings.tsx:216
 msgid "Site identity, logo, favicon, and reading preferences"
 msgstr "سائٹ کی شناخت، لوگو، فیویکن اور مطالعے کی ترجیحات"
 
@@ -11636,7 +11636,7 @@ msgstr "سائٹ کی ترتیبات"
 msgid "Site title"
 msgstr "سائٹ کا عنوان"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:261
+#: packages/admin/src/components/settings/GeneralSettings.tsx:262
 #: packages/admin/src/components/SetupWizard.tsx:137
 msgid "Site Title"
 msgstr "سائٹ کا عنوان"
@@ -11653,7 +11653,7 @@ msgstr "سائٹ کا عنوان ضروری ہے"
 msgid "Site Transfer"
 msgstr "سائٹ کی منتقلی"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:277
+#: packages/admin/src/components/settings/GeneralSettings.tsx:278
 msgid "Site URL"
 msgstr "سائٹ URL"
 
@@ -12026,7 +12026,7 @@ msgstr "ٹیبل کا سائز"
 msgid "Tables cannot be pasted inside lists or quotes. Paste the table into its own paragraph and try again."
 msgstr "ٹیبلز کو فہرستوں یا اقتباسات کے اندر پیسٹ نہیں کیا جا سکتا۔ ٹیبل کو اپنے الگ پیراگراف میں پیسٹ کریں اور دوبارہ کوشش کریں۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:269
+#: packages/admin/src/components/settings/GeneralSettings.tsx:270
 #: packages/admin/src/components/settings/transfer/ImportReview.tsx:375
 #: packages/admin/src/components/SetupWizard.tsx:148
 msgid "Tagline"
@@ -12340,7 +12340,7 @@ msgstr "مارکیٹ پلیس خالی ہے۔ نئے پلگ اِنز کے لیے
 msgid "The menu has been deleted."
 msgstr "مینیو حذف کر دیا گیا ہے۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:264
+#: packages/admin/src/components/settings/GeneralSettings.tsx:265
 msgid "The name of your site, used in the header and metadata"
 msgstr "آپ کی سائٹ کا نام، جو ہیڈر اور میٹا ڈیٹا میں استعمال ہوتا ہے"
 
@@ -12449,7 +12449,7 @@ msgstr "پلگ اِن نے یہ تبدیلیاں محفوظ نہیں کیں۔ ا
 msgid "The plugin result is stale because the editor changed while it was working."
 msgstr "پلگ اِن کا نتیجہ پرانا ہو چکا ہے کیونکہ اس کے کام کرتے وقت ایڈیٹر میں تبدیلی ہو گئی۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:281
+#: packages/admin/src/components/settings/GeneralSettings.tsx:282
 msgid "The public URL of your site (used for canonical links and sitemaps)"
 msgstr "آپ کی سائٹ کا عوامی URL (کینونیکل لنکس اور سائٹ میپس کے لیے استعمال ہوتا ہے)"
 
@@ -12466,7 +12466,7 @@ msgstr "اس حد میں اتنے اندراجات ہیں جو کیلنڈر دک
 msgid "The referenced image is no longer available. Pick a new one or remove the reference."
 msgstr "حوالہ شدہ تصویر اب دستیاب نہیں۔ نئی منتخب کریں یا حوالہ ہٹا دیں۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:305
+#: packages/admin/src/components/settings/GeneralSettings.tsx:306
 msgid "The referenced logo is no longer available. Pick a new one or remove the reference."
 msgstr "حوالہ شدہ لوگو اب دستیاب نہیں۔ نیا منتخب کریں یا حوالہ ہٹا دیں۔"
 
@@ -12854,7 +12854,7 @@ msgstr "یہ تعلق، اس کے تحت محفوظ ہر لنک، اور اسے 
 msgid "This removes the schedule and publishes immediately."
 msgstr "یہ شیڈول ہٹا کر فوراً شائع کر دیتا ہے۔"
 
-#: packages/admin/src/components/settings/GeneralSettings.tsx:442
+#: packages/admin/src/components/settings/GeneralSettings.tsx:443
 msgid "This saved timezone isn't recognized. Choose a suggestion for reliable date display."
 msgstr "یہ محفوظ شدہ ٹائم زون تسلیم نہیں کیا گیا۔ تاریخ کے درست اظہار کے لیے کوئی تجویز منتخب کریں۔"
 
@@ -12983,7 +12983,7 @@ msgid "Times are in {zoneName}. Your browser uses {viewerZoneName}."
 msgstr "اوقات {zoneName} میں ہیں۔ آپ کا براؤزر {viewerZoneName} استعمال کرتا ہے۔"
 
 #: packages/admin/src/components/PublishingDateTimeEditor.tsx:252
-#: packages/admin/src/components/settings/GeneralSettings.tsx:434
+#: packages/admin/src/components/settings/GeneralSettings.tsx:435
 msgid "Timezone"
 msgstr "ٹائم زون"
 
